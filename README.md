@@ -1,5 +1,4 @@
-
-# Título do Projeto
+# Processo seletivo
 
 Projeto referente aos 4 exercícios proposto pelo processo seletivo
 
